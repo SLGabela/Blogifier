@@ -1,0 +1,4 @@
+2023-11-07 09:15:27.330 +02:00 [INF] Current directory path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-07 09:15:27.344 +02:00 [INF] Final path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-07 09:15:27.352 +02:00 [INF] Current directory path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-07 09:15:27.352 +02:00 [INF] Final path: C:\Users\admin\Documents\devops\Blogifier.3.0

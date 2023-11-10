@@ -1,0 +1,13 @@
+2023-11-06 12:33:22.102 +02:00 [WRN] Application start
+2023-11-06 12:33:22.184 +02:00 [WRN] Start configure services
+2023-11-06 12:33:22.464 +02:00 [WRN] Done configure services
+2023-11-06 12:33:37.701 +02:00 [INF] Current directory path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-06 12:33:37.701 +02:00 [INF] Final path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-06 12:34:39.799 +02:00 [INF] Current directory path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-06 12:34:39.799 +02:00 [INF] Final path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-06 12:34:41.026 +02:00 [INF] Current directory path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-06 12:34:41.026 +02:00 [INF] Final path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-06 12:34:55.448 +02:00 [WRN] Verifying password for lorenzodeej@gmail.com
+2023-11-06 12:34:55.477 +02:00 [WRN] Successful login for lorenzodeej@gmail.com
+2023-11-06 12:34:55.509 +02:00 [INF] Current directory path: C:\Users\admin\Documents\devops\Blogifier.3.0
+2023-11-06 12:34:55.509 +02:00 [INF] Final path: C:\Users\admin\Documents\devops\Blogifier.3.0
